@@ -36,7 +36,7 @@ Sample rule:
 alert udp any any -> 192.168.5.0/24 31337 \ 
 (msg: "Back Orifice";)
 ```
-Sample output: ![](Pasted%20image%2020240308121642.png)
+Sample output: ![](Back%20Orifice.png)
 
 ## logto Option (Post-Detection Rule)
 Sample rule: 
